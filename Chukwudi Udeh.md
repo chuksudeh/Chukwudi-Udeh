@@ -33,7 +33,8 @@ Make vital decisions and drive decision-making across projects.
 
 Implement and maintain software development best practices.	 	 	
 
-Making sure all projects are managed within the correct framework.	 
+Making sure all projects are managed within the correct framework.
+
 
 *2018 - 2019*	 	 	
 
