@@ -75,21 +75,36 @@ Deployment: AWS
 Blog4U: A medium-like blog where users sign up and make posts.
 
 TOOLS USED:
+
 API Development: ExpressJS. 	
+
 Frontend: VueJS
+
 Database: MongoDB
+
 Deployment: Heroku
+
 	 	 	
 UxtheClass: A website for training designers. Tutors and Aspiring designers sign up on the website.
+
 https://www.uxtheclass.com 
+
 TOOLS USED	
+
 Frontend: VueJS 	
+
 Form Submission: Integrated Google form API
+
 Host: Netlify.
+
 Links
+
 Linkedin: https://linkedin.com/in/chukwudi-udeh/
+
 Github: https://github.com/chuksudeh
+
 Gitlab: https://gitlab.com/chuksudeh24
+
 Hackerrank: https://www.hackerrank.com/chuckseveristus7
 
 
