@@ -18,6 +18,7 @@ Resourceful Technical Project Manager skilled in streamlining operations and mai
 **Experience**  
 
 *2019 - Present*
+
 **FINDWORKA, LAGOS  - Technical Project Manager**	 	 	
 
 Developed and established Agile development within the department  
