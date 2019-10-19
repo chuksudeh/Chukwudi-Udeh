@@ -58,15 +58,22 @@ ENUGU STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY (2012 - 2017)
 Bachelor of Engineering, Electrical & Electronics Engineering 	 
 	 	
 **PROJECTS:**
-Horus: Together with my team members we built a project management platform where developers sign up and take an assessment. The project manager is also able to assign tasks to the developers and also create milestones and measure deliverables for the developers. I worked with a team of developers to build the application. I worked on the assessment module.
+Horus: Together with my team members we built a project management platform where developers sign up and take an assessment. The project manager is also able to assign tasks to the developers and also create milestones and measure deliverables for the developers. I worked with a team of developers to build the application.
  https://www.horus.findworka.com
+ 
 TOOLS USED
+
 API Development: Adonis JS 
+
 Frontend:  VueJS 
+
 Database: MySQl 
+
 Deployment: AWS 
+
 	 	 	
 Blog4U: A medium-like blog where users sign up and make posts.
+
 TOOLS USED:
 API Development: ExpressJS. 	
 Frontend: VueJS
