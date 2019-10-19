@@ -1,11 +1,13 @@
 ## **CHUKWUDI UDEH EVERISTUS**
 *Software Engineer / Technical Project Manager*  
 
-+2348134579525, +2348167219276
++2348134579525, +2348167219276  
+
 chuckseveristus7@gmail.com  
 
-**Skills**
-Resourceful Technical Project Manager skilled in streamlining operations and maintaining schedules to ensure maximum customer satisfaction and business revenue. Also Experienced in software development using several javascript frameworks on different projects and project management. Proficient knowledge of Linux operating system.
+
+Resourceful Technical Project Manager skilled in streamlining operations and maintaining schedules to ensure maximum customer satisfaction and business revenue. Also Experienced in software development using several javascript frameworks on different projects and project management. Proficient knowledge of Linux operating system.  
+
 **Tools:**
 **Project Management**: Agile Methodology (Scrum)
 **Backend**: ExpressJS, AdonisJS 
@@ -18,8 +20,10 @@ Resourceful Technical Project Manager skilled in streamlining operations and mai
 *2019 - Present*
 **FINDWORKA, LAGOS  - Technical Project Manager**	 	 	
 
-Developed and established Agile development within the department
-Deployment of fully tested applications to the server.		 	
+Developed and established Agile development within the department  
+
+Deployment of fully tested applications to the server.		 	 
+
 Monitor workflow and make timeline adjustments as needed. 
 Delegate and prioritize workflow for developers, troubleshoot and resolve technical issues.	
 Make vital decisions and drive decision-making across projects. 	 	
