@@ -26,22 +26,32 @@ Developed and established Agile development within the department
 Deployment of fully tested applications to the server.		 	 
 
 Monitor workflow and make timeline adjustments as needed. 
+
 Delegate and prioritize workflow for developers, troubleshoot and resolve technical issues.	
+
 Make vital decisions and drive decision-making across projects. 	 	
+
 Implement and maintain software development best practices.	 	 	
+
 Making sure all projects are managed within the correct framework.	 
 
 *2018 - 2019*	 	 	
+
 **FINDWORKA, LAGOS  - Full Stack Web Developer**
 Building RESTful APIs using ExpressJS and AdonisJS.	 	 	
+
 Worked with a team of four to build a project management platform called horus 
 **(https://www.horus.findworka.com)**
+
 Developing front end website architecture.	 	 	
+
 Creating servers and databases for functionality.	 	 	
+
 Working alongside UI/UX designers for web design features.	 	 	
 Ensuring cross-platform optimization for mobile phones.
 
 **Education**
+
 ENUGU STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY (2012 - 2017)
 Bachelor of Engineering, Electrical & Electronics Engineering 	 
 	 	
